@@ -1,0 +1,6 @@
+para testar o jogo da velha é necessario instalar os modulos
+para isso é necessario ter o node e o npm instalados no sistema(https://nodejs.org/en/)
+depois disso abra um terminal na pasta e digite "npm i" para instalar as bibliotecas
+e npm start para iniciar o sistema
+
+utilizei como base o exemplo de react (https://pt-br.reactjs.org/tutorial/tutorial.html)
